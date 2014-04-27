@@ -1,0 +1,12 @@
+.DS_Store
+packages
+.project
+pubspec.lock
+.hgignore
+bin/packages/
+web/packages/
+build/
+buildlog
+.idea
+.orig
+.settings/org.eclipse.core.resources.prefs

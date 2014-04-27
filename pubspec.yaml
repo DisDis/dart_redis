@@ -1,0 +1,9 @@
+name: dart_redis
+version: 0.10.1-alpha
+author: Igor Demyanov <igor.demyanov@gmail.com>
+description: Redis client library, port nodejs node_redis 0.10.1 package
+environment:
+  sdk: '>=1.3.0'
+dependencies:
+  crypto: '>=0.9.0 <0.10.0'
+  logging: '>=0.9.1+1 <0.10.0'
